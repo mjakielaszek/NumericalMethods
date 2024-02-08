@@ -10,4 +10,4 @@
 ### RootFindingAlgorithms - comparison of methods vs their iterations. Comparison is done for bisect and secant root finding algorithms using the Kirchoff's rule formula to find its roots.
 ### All programs use:
 - matplotlib library for plotting,
-- scipy.io library to read MatLab files,
+- scipy.io library to read MatLab files.
